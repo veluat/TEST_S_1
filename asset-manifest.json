@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/veluat/TEST_S_1/static/css/main.ce55ae49.css",
-    "main.js": "/veluat/TEST_S_1/static/js/main.30b8573d.js",
-    "static/media/BG2.png": "/veluat/TEST_S_1/static/media/BG2.66027ecd8c6901da5f78.png",
-    "index.html": "/veluat/TEST_S_1/index.html",
-    "main.ce55ae49.css.map": "/veluat/TEST_S_1/static/css/main.ce55ae49.css.map",
-    "main.30b8573d.js.map": "/veluat/TEST_S_1/static/js/main.30b8573d.js.map"
+    "main.css": "/TEST_S_1/static/css/main.ce55ae49.css",
+    "main.js": "/TEST_S_1/static/js/main.4d82ea34.js",
+    "static/media/BG2.png": "/TEST_S_1/static/media/BG2.66027ecd8c6901da5f78.png",
+    "index.html": "/TEST_S_1/index.html",
+    "main.ce55ae49.css.map": "/TEST_S_1/static/css/main.ce55ae49.css.map",
+    "main.4d82ea34.js.map": "/TEST_S_1/static/js/main.4d82ea34.js.map"
   },
   "entrypoints": [
     "static/css/main.ce55ae49.css",
-    "static/js/main.30b8573d.js"
+    "static/js/main.4d82ea34.js"
   ]
 }
